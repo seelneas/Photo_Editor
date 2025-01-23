@@ -1,15 +1,28 @@
-# photo_editor
+# Photo_editor
 
-A new Flutter project.
+A simple photo editor app built with Flutter. This app allows users to edit images by drawing, adding text, cropping, applying filters, and more.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+# Drawing on images: Draw freely on images with customizable brush sizes and colors.
 
-A few resources to get you started if this is your first Flutter project:
+# Undo/Redo: Undo or redo drawing actions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Image Cropping: Crop the image to the desired aspect ratio.
+
+# Filters: Apply basic image filters like grayscale, sepia, etc.
+
+# Color Picker: Choose colors for drawing or text.
+
+# Save : Save the edited image.
+
+# Emoji: Insert Emoji.
+
+# Blur: Blur the image.
+
+# Rotate: Rotate left and right.
+
+# Flip: Flip the image.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
